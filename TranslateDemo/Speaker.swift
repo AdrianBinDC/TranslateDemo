@@ -1,6 +1,5 @@
 //
 //  Speaker.swift
-//  StretchApp 3
 //
 //  Created by Adrian Bolinger on 10/10/16.
 //  Copyright © 2016 Adrian Bolinger. All rights reserved.
